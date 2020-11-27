@@ -25,8 +25,8 @@ jobs:
   build:
     env:
       # https://github.com/appulate/tta/blob/master/README.rst
-      CATEGORY: 14
-      DESCRIPTION: "My super job"  
+      CATEGORY: 2
+      DESCRIPTION: "Tasks and Meetings"  
     
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
